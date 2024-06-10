@@ -3,7 +3,7 @@
 1. phpMyAdmin, MySQL
 2. Python: pandas, pymysql
 3. SQL: DML, DDL
-### 練習題
+### 題目
 1. 查詢學生表的 前10條資料
 2. 查詢成績表所有成績的最低分,平均分,總分
 3. 查詢老師 “諶燕” 所帶的課程設數量

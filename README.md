@@ -1,8 +1,8 @@
 ## 50道經典SQL練習題
 使用工具：
-1. phpMyAdmin, MySQL
+1. MySQL
 2. Python: pandas, pymysql
-3. SQL: DML, DDL
+3. SQL: DDL, DQL
 ### 題目
 1. 查詢學生表的 前10條資料
 2. 查詢成績表所有成績的最低分,平均分,總分
